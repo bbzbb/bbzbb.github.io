@@ -1,0 +1,26 @@
+body {
+  background-image: url(1.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center; 
+}
+
+.robots1 {
+	position: relative;
+    width: 70vw;
+    height: 100vw;
+    min-width: 300px;
+    min-height: 400px;
+    overflow: hidden;
+}
+
+
+.robots{
+	display:flex;
+	justify-content: center;
+	padding-top: 200px;
+	padding-left: 300px;
+	flex-direction: column;
+}
+
